@@ -1,13 +1,10 @@
-name: template
+name: remove_samples_flutter_template_project
 sdkPath: .fvm/flutter_sdk
 
 packages:
   - apps/*
   - packages/cores/*
   - packages/features/*
-  - packages/samples/*
-  - samples/*
-
 command:
   bootstrap:
     environment:

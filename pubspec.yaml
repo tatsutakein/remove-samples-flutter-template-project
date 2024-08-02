@@ -1,4 +1,4 @@
-name: template_workspace
+name: remove_samples_flutter_template_project
 environment:
   sdk: ^3.3.1
 
