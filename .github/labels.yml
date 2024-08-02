@@ -1,0 +1,88 @@
+# Default labels
+- name: "bug"
+  color: "d73a4a"
+  description: "Something isn't working"
+
+- name: "documentation"
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
+
+- name: "duplicate"
+  color: "cfd3d7"
+  description: "This issue or pull request already exists"
+
+- name: "enhancement"
+  color: "a2eeef"
+  description: "New feature or request"
+
+- name: "good first issue"
+  color: "7057ff"
+  description: "Good for newcomers"
+
+- name: "help wanted"
+  color: "008672"
+  description: "Extra attention is needed"
+
+- name: "invalid"
+  color: "e4e669"
+  description: "This doesn't seem right"
+
+- name: "question"
+  color: "d876e3"
+  description: "Further information is requested"
+
+- name: "wontfix"
+  color: "ffffff"
+  description: "This will not be worked on"
+
+# <!-- This is an auto-generated label -->
+- name: "@apps/catalog"
+  color: d4f227
+  description: Catalog development
+
+- name: "@packages/cores/core"
+  color: 0b2ebd
+  description: packages cores core package
+  from_name: "@cores/core"
+
+- name: "@packages/cores/data"
+  color: 50D413
+  description: packages cores data package
+  from_name: "@cores/data"
+
+- name: "@packages/cores/designsystem"
+  color: b4cef5
+  description: packages cores designsystem package
+  from_name: "@cores/designsystem"
+
+- name: "@packages/features/debug_mode"
+  color: 48360E
+  description: packages features debug_mode package
+  from_name: "@cores/debug"
+
+- name: "@packages/features/setting"
+  color: 1e266d
+  description: packages features setting package
+  from_name: "@cores/setting"
+
+- name: "@packages/features/webview"
+  color: 6fe0ba
+  description: packages features webview package
+  from_name: "@cores/webview"
+
+- name: "@apps/app"
+  color: e261d6
+  description: Application development
+
+- name: "@samples/github_app"
+  color: 73d994
+  description: samples github_app package
+
+- name: "@packages/samples/github_repository"
+  color: e909bc
+  description: packages samples github_repository package
+  from_name: "@packages/features/github_repository"
+
+- name: "@apps/website"
+  color: 3b4ff2
+  description: apps website package

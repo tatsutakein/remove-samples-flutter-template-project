@@ -1,0 +1,22 @@
+# This file itself is not needed
+removal_list_on_use_template.txt
+
+LICENSE.md
+
+apps/website
+
+.github/actions/cleanup-copilot-settings
+.github/actions/cleanup-samples
+.github/actions/remove-unnecessary-files
+.github/actions/create-issue-at-initialization
+
+.github/workflows/initialization.yaml
+
+.firebaserc
+
+.github/initialization
+
+# samples
+.idea/runConfigurations/samples_github_app.xml
+packages/samples
+samples
